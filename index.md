@@ -1,18 +1,16 @@
 ---
 layout: page
 title: Loes Peters
-subtitle: Researcher in automated negotiation
+subtitle: PhD candidate in automated negotiation
 ---
 
 <img src="{{ '/assets/img/loes-peters.jpg' | relative_url }}" alt="Portrait of Loes Peters" style="float:right; width:200px; margin:0 0 1rem 1.5rem; border-radius:6px;">
 
-I am a researcher at the [Centrum Wiskunde & Informatica (CWI)](https://www.cwi.nl) in Amsterdam and at the [Eindhoven University of Technology](https://www.tue.nl).
+I am a PhD candidate in the Intelligent and Autonomous Systems group at [Centrum Wiskunde & Informatica (CWI)](https://www.cwi.nl/en/people/loes-peters/) and in the Combinatorial Optimization group at the [Eindhoven University of Technology](https://www.tue.nl/en/research/researchers/loes-peters).
 
 ## Research
 {: #research}
 
-My research is on **automated negotiation**: how to make agents, not necessarily AI agents, better negotiators.
-
-My current focus is on **hiding your preference information while negotiating**. Every offer an agent makes or accepts can reveal something about what it wants, and an opponent can exploit that. I study how to negotiate effectively while revealing as little as possible about your own preferences.
+My research focuses on **automated negotiation**. I am interested in figuring out how agents can effectively negotiate with each other. In particular, my current focus is on privacy in negotiation: how to reveal little information about your own preferences, while obtaining a good deal in the negotiation.
 
 See my [publications](/publications) or [get in touch](/contact).
