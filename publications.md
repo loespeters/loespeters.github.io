@@ -11,4 +11,4 @@ title: Publications
 * **The Eigenvalue Method in Coding Theory**
   <br>Aida Abiad, **Loes Peters** and Alberto Ravagnani
   <br>*Canadian Journal of Mathematics*, 2025, pp. 1–41.
-  <br>[DOI](https://doi.org/10.4153/S0008414X25101600) #· [arXiv](https://arxiv.org/abs/2509.08917)
+  <br>[DOI](https://doi.org/10.4153/S0008414X25101600)
