@@ -4,8 +4,9 @@ title: Contact
 ---
 
 **Loes Peters**
-<br>Centrum Wiskunde & Informatica
-<br>Amsterdam, The Netherlands
+<br>Centrum Wiskunde & Informatica (Amsterdam)
+<br>Eindhoven University of Technology
+<br>The Netherlands
 
 Email: [loes.peters@cwi.nl](mailto:loes.peters@cwi.nl)
 
